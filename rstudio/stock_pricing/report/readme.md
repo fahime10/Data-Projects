@@ -1,0 +1,1 @@
+The "stock_pricing_report.Rmd" can be used in Rstudio to create the report in HTML using the Knit tool.
