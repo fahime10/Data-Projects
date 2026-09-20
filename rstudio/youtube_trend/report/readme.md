@@ -1,0 +1,1 @@
+The "report.Rmd" file can be used in RStudio to create the report in HTML using the Knit tool.
